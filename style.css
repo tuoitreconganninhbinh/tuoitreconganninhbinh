@@ -13,9 +13,10 @@ font-size:40px;
 
 button{
 width:100%;
-padding:12px;
-margin:6px 0;
-font-size:16px;
+padding:18px;
+margin:8px 0;
+font-size:24px;
+font-weight:bold;
 cursor:pointer;
 }
 
