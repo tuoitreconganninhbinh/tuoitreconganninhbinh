@@ -3,7 +3,7 @@ const DATA = {
 vi:{
 name:"🇻🇳 Tiếng Việt",
 items:[
-{t:"Mất hộ chiếu",c:"Đến Công an gần nhất để trình báo mất hộ chiếu.\n\nLiên hệ Đại sứ quán hoặc Lãnh sự quán để được cấp giấy tờ thay thế."},
+{t:"Mất hộ chiếu hoặc giấy tờ tùy thân",c:"B1: Trình báo cảnh sát: Đến cơ sở cảnh sát gần nhất nơi xảy ra sự việc để khai báo và xin biên bản xác nhận mất hộ chiếu.\n\nB2: Liên hệ Đại sứ quán: Đến Đại sứ quán/Lãnh sự quán quốc gia của du khách tại Việt Nam để xin cấp hộ chiếu mới hoặc giấy thông hành.\n\nB3: Xin cấp lại thị thực: Mang biên bản do lực lượng Công an cung cấp, hộ chiếu mới (hoặc giấy thông hành) và văn bản của Đại sứ quán đến Cục Quản lý xuất nhập cảnh (Bộ Công an) để được cấp lại thị thực xuất cảnh."},
 {t:"Mất điện thoại",c:"Khóa SIM.\nĐịnh vị điện thoại.\nTrình báo Công an."},
 {t:"Mất ví",c:"Khóa thẻ ngân hàng.\nTrình báo Công an."},
 {t:"Bị trộm",c:"Giữ nguyên hiện trường.\nGọi 113."},
